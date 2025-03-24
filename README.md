@@ -8,7 +8,9 @@ Atualmente, estou cursando o terceiro semestre de Análise e Desenvolvimento de 
 
 ## Transição de Carreira
 
-Trabalho com transcrição de áudio há 11 anos e, durante esse tempo, aprendi que o verdadeiro crescimento está na constante busca por novos caminhos. Senti que era hora de explorar novas áreas que me desafiassem e me proporcionassem aprendizado contínuo.
+Trabalho com transcrição de áudio há 11 anos e, estou em processo de transição de carreira para a área da Tecnologia.
+
+Durante esse tempo, aprendi que o verdadeiro crescimento está na busca por desafios que impulsionem minha evolução. Senti que era hora de explorar novas áreas que me desafiassem e me proporcionassem aprendizado contínuo.
 
 ## Meus Valores:
 
