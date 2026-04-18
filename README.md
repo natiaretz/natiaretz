@@ -1,6 +1,6 @@
 # Anathiele Aretz
 
-# Oi, sou a Nati!
+## Oi, sou a Nati!
 Sou apaixonada por tecnologia e estou construindo minha carreira na área de TI, com foco em aprendizado contínuo e criação de soluções que gerem impacto real.
 
 Além da tecnologia, adoro desenhar, cuidar das minhas plantinhas e manter uma rotina ativa — gosto de equilibrar criatividade com lógica no meu dia a dia.
