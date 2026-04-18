@@ -1,26 +1,23 @@
 # Anathiele Aretz
 
-Oi, sou a Nati — uma entusiasta de tecnologia, apaixonada por aprender e criar soluções que realmente façam a diferença. Além da área de Tecnologia, também adoro desenhar e cuidar das minhas plantinhas, e estou sempre em busca de novos desafios. Adoro explorar novos projetos e, quando não estou programando ou desenhando, você provavelmente me encontrará na academia. Sempre tento manter uma mentalidade curiosa e estou aberta a novas ideias e colaborações! 💕
+# Oi, sou a Nati!
+Sou apaixonada por tecnologia e estou construindo minha carreira na área de TI, com foco em aprendizado contínuo e criação de soluções que gerem impacto real.
+
+Além da tecnologia, adoro desenhar, cuidar das minhas plantinhas e manter uma rotina ativa — gosto de equilibrar criatividade com lógica no meu dia a dia.
 
 ## Minha jornada atual
 
-Atualmente, estou cursando o terceiro semestre de Análise e Desenvolvimento de Sistemas na PUC-PR e, junto com minha equipe, estou desenvolvendo um sistema de cadastros para a Associação Fenix.
+Estudante de Análise e Desenvolvimento de Sistemas (PUC-PR)
+Tech I na área de Segurança da Informação (Klabin)
+Desenvolvendo projetos com foco em sistemas web (Django, HTML, CSS, JavaScript)
 
-## Transição de Carreira
+Atualmente, atuo com foco em segurança da informação, apoiando iniciativas que envolvem proteção de sistemas, análise de processos e melhoria contínua no ambiente corporativo.
 
-Trabalho com transcrição de áudio há 11 anos e, estou em processo de transição de carreira para a área da Tecnologia.
-
-Durante esse tempo, aprendi que o verdadeiro crescimento está na busca por desafios que impulsionem minha evolução. Senti que era hora de explorar novas áreas que me desafiassem e me proporcionassem aprendizado contínuo.
-
-## Meus Valores:
-
-🌟 Agir com integridade
-  
-💗 Praticar a empatia
- 
-👨‍🎓 Estar aberta ao aprendizado
-
-🙌 Praticar a gratidão
+## Interesses
+Segurança da Informação
+Desenvolvimento backend/web
+Melhoria de processos com tecnologia
+Soluções com impacto real
   
 ## Fale Comigo:
 - [LinkedIn](https://www.linkedin.com/in/anathiele-aretz/)
